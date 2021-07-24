@@ -1,12 +1,14 @@
-name: "my-website"
-title: "My Website"
+name: "."
+title: "Andrea Gilardi"
 description: |
-  My Website
+  Andrea Gilardi
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Publications"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/agila5
 output: distill::distill_article

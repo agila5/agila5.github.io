@@ -1,7 +1,5 @@
 ---
-title: "My Website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Andrea Gilardi"
 site: distill::distill_website
 ---
 
@@ -14,5 +12,10 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about publishing to GitHub Pages at:
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
+# Check also https://aosmith16.github.io/spring-r-topics/slides/week02_distill_websites.html#1
 ```
+
+Welcome to my *new* website. 
+
+
 
