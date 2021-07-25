@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-07-06-useR2021/",
+    "title": "UseR",
+    "description": "Rmd file for testing purposes",
+    "author": [
+      {
+        "name": "Andrea Gilardi",
+        "url": "https://agila5.github.io/"
+      }
+    ],
+    "date": "2021-07-06",
+    "categories": [],
+    "contents": "\r\nWow, such empty\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-25T14:45:29+02:00",
+    "input_file": "useR2021.knit.md"
+  },
+  {
     "path": "posts/2021-05-21-tests/",
     "title": "Tests...",
     "description": "Rmd file for testing purposes",

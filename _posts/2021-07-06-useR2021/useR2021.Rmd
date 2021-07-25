@@ -1,0 +1,19 @@
+---
+title: "UseR"
+description: |
+  Rmd file for testing purposes
+author:
+  - name: Andrea Gilardi
+    url: https://agila5.github.io/
+date: "2021-07-06"
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Wow, such empty
