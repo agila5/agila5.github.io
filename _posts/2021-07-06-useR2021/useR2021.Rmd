@@ -5,6 +5,8 @@ description: |
 author:
   - name: Andrea Gilardi
     url: https://agila5.github.io/
+  - name: Robin Lovelace
+    url: https://www.robinlovelace.net/
 date: "2021-07-06"
 output:
   distill::distill_article:
@@ -16,4 +18,12 @@ draft: false
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Wow, such empty
+ADD ABSTRACT
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/agila5/agila5.github.io/blob/master/data/presentations/2021-07-06-useR2021/useR2021.Rmd" target="_blank" rel="noopener">
+  Code
+</a>
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://agila5.github.io/data/presentations/2021-07-06-useR2021/useR2021.html#1" target="_blank" rel="noopener">
+  Slides
+</a>
