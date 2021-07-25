@@ -1,5 +1,14 @@
 ---
 title: "Andrea Gilardi"
+image: "data/images/website-image.JPG"
+links:
+  - label: '<i class="fab fa-twitter fa-3x"></i>'
+    url: "https://twitter.com/a_gilardi5"
+  - label: '<i class="fab fa-github fa-3x"></i>'
+    url: "https://github.com/agila5"
+  - label: '<i class="far fa-envelope fa-3x"></i>'
+    url: "mailto:andrea.gilardi@unimib.it"
+output: postcards::jolla
 site: distill::distill_website
 ---
 
@@ -15,7 +24,9 @@ knitr::opts_chunk$set(echo = FALSE)
 # Check also https://aosmith16.github.io/spring-r-topics/slides/week02_distill_websites.html#1
 ```
 
-Welcome to my *new* website. 
+I am a research fellow at the University of Milano - Bicocca. 
+I work mainly on spatial and spatio-temporal models on road networks. 
+I love hiking and coding in R. 
 
 
 
