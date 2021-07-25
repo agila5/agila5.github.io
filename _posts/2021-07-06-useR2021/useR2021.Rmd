@@ -1,0 +1,94 @@
+---
+title: "osmextract: An R package to download, convert, and import large OpenStreetMap datasets"
+author: "Andrea Gilardi and Robin Lovelace"
+institute: "University of Milano - Bicocca and University of Leeds"
+date: "2021/07/06"
+output: 
+  xaringan::moon_reader: 
+    css: ["useR", "useR-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+<style type="text/css">
+.pull-left-40 {
+  float: left;
+  width: 39%;
+  margin-top: -30px;
+}
+.pull-right-60 {
+  float: right;
+  width: 57%;
+  margin-top: -150px;
+}
+.large { font-size: 120% }
+.small { font-size: 70% }
+</style>
+
+```{r setup, include = FALSE}
+options(htmltools.dir.version = FALSE, crayon.enabled = TRUE)
+knitr::opts_chunk$set(collapse = TRUE, fig.align = "center")
+
+# packages
+suppressPackageStartupMessages({
+  library(tmap)
+  library(leaflet)
+})
+
+Sys.setenv(OSMEXT_DOWNLOAD_DIRECTORY = tempdir())
+```
+
+## The initial development
+
+.large[
+  .pull-left[
+  `osmextract` 📦 is the results of an international research collaboration: 
+
+```{r, eval = FALSE}
+locations = rbind(
+  osmextract:::oe_search("Leeds"),
+  osmextract:::oe_search("Milan"),
+  osmextract::oe_search("Github") # ???
+  osmextract:::oe_search("Toulouse")
+)
+tmap_leaflet(
+  qtm(
+    locations, 
+    symbols.size = 2,
+    symbols.col = "black",
+    basemaps = providers$OpenStreetMap
+  )
+)
+```
+
+]
+]
+
+.pull-right[
+
+```{r, echo = FALSE}
+locations = rbind(
+  osmextract:::oe_search("Leeds"),
+  osmextract:::oe_search("Milan"),
+  osmextract:::oe_search("Toulouse")
+)
+tmap_leaflet(
+  qtm(
+    locations, 
+    symbols.size = 3,
+    symbols.col = "black",
+    basemaps = providers$OpenStreetMap
+  )
+)
+```
+
+]
+
+???
+
+Something about us and how we came to work on the project
+
+---
