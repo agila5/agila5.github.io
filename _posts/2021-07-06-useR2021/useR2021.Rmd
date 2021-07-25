@@ -1,7 +1,7 @@
 ---
-title: "UseR"
+title: "osmextract: An R package to download, convert, and import large OpenStreetMap datasets"
 description: |
-  Rmd file for testing purposes
+  Slides used for the presentation at useR2021.
 author:
   - name: Andrea Gilardi
     url: https://agila5.github.io/

@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2021-07-06-useR2021/",
-    "title": "UseR",
-    "description": "Rmd file for testing purposes",
+    "title": "osmextract: An R package to download, convert, and import large OpenStreetMap datasets",
+    "description": "Slides used for the presentation at useR2021.",
     "author": [
       {
         "name": "Andrea Gilardi",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\nWow, such empty\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-07-25T15:18:35+02:00",
+    "last_modified": "2021-07-25T15:21:26+02:00",
     "input_file": {}
   },
   {
