@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2021-07-06-useR2021/",
-    "title": "osmextract: An R package to download, convert, and import large OpenStreetMap datasets",
-    "description": "Slides used for the presentation at useR2021.",
+    "title": "osmextract: An R package to download, convert, and import large OpenStreetMap datasets - useR2021",
+    "description": "Slides used for introducing the R package osmextract at useR2021 conference.",
     "author": [
       {
         "name": "Andrea Gilardi",
@@ -15,9 +15,9 @@
     ],
     "date": "2021-07-06",
     "categories": [],
-    "contents": "\r\nADD ABSTRACT\r\n Code \r\n Slides \r\n\r\n\r\n\r\n",
+    "contents": "\r\nThe following slides were used to present the osmextract R package at useR2021 conference. Get slides and code.\r\nAbstract: OpenStreetMap (OSM) is an online database that provides open-access geographic and rich attribute data worldwide, representing a wide range of physical and human features, including roads, rivers, and political boundaries. OSM is the world’s largest open-access source of geographic vector data, comprising nodes (points), ways (lines and polygons) and relations (describing a wide range of entities). Practical applications include disaster response, transport planning, and service location. OSM datasets can be manually downloaded from the project’s servers directly or via the R package osmdata, which uses the Overpass API. Large ‘extracts’ are also available from external providers (such as geofabrik.de) in a compressed binary format based on protocol buffers. The aim of osmextract is to enable processing and import of such OSM extracts. The package is composed of three main functions that can be used to 1) match an input location with one of the OSM extracts, either via spatial matching or approximate string distance; 2) download the chosen file; 3) convert the compressed data to Geopackage format. The main function, named oe_get(), returns sf objects. This workflow is effective for importing OSM extracts covering large geographical areas. Furthermore, the conversion process is based on GDAL routines, enabling customized spatial filters or SQL-like queries, further boosting import performance.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-07-25T15:26:56+02:00",
+    "last_modified": "2021-07-26T12:12:29+02:00",
     "input_file": {}
   },
   {

@@ -1,29 +1,24 @@
 ---
-title: "osmextract: An R package to download, convert, and import large OpenStreetMap datasets"
+title: "osmextract: An R package to download, convert, and import large OpenStreetMap datasets - useR2021"
 description: |
-  Slides used for the presentation at useR2021.
+  Slides used for introducing the R package osmextract at useR2021 conference.
 author:
   - name: Andrea Gilardi
     url: https://agila5.github.io/
+    affiliation: University of Milano - Bicocca
+    orcid_id: 0000-0002-9424-7439
   - name: Robin Lovelace
     url: https://www.robinlovelace.net/
-date: "2021-07-06"
+    affiliation: University of Leeds
+    orcid_id: 0000-0001-5679-6536
+date: 2021-07-06
 output:
   distill::distill_article:
     self_contained: false
 draft: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+The following slides were used to present the `osmextract` R package at [useR2021](https://user2021.r-project.org/) conference. 
+Get <a href="https://agila5.github.io/data/presentations/2021-07-06-useR2021/useR2021.html#1" target="_blank" rel="nopener">slides</a> and <a href="https://github.com/agila5/agila5.github.io/blob/master/data/presentations/2021-07-06-useR2021/useR2021.Rmd" target="_blank" rel="noopener">code</a>.
 
-ADD ABSTRACT
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/agila5/agila5.github.io/blob/master/data/presentations/2021-07-06-useR2021/useR2021.Rmd" target="_blank" rel="noopener">
-  Code
-</a>
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://agila5.github.io/data/presentations/2021-07-06-useR2021/useR2021.html#1" target="_blank" rel="noopener">
-  Slides
-</a>
+Abstract: OpenStreetMap (OSM) is an online database that provides open-access geographic and rich attribute data worldwide, representing a wide range of physical and human features, including roads, rivers, and political boundaries. OSM is the world’s largest open-access source of geographic vector data, comprising nodes (points), ways (lines and polygons) and relations (describing a wide range of entities). Practical applications include disaster response, transport planning, and service location. OSM datasets can be manually downloaded from the project’s servers directly or via the R package osmdata, which uses the Overpass API. Large 'extracts' are also available from external providers (such as geofabrik.de) in a compressed binary format based on protocol buffers. The aim of osmextract is to enable processing and import of such OSM extracts. The package is composed of three main functions that can be used to 1) match an input location with one of the OSM extracts, either via spatial matching or approximate string distance; 2) download the chosen file; 3) convert the compressed data to Geopackage format. The main function, named oe_get(), returns sf objects. This workflow is effective for importing OSM extracts covering large geographical areas. Furthermore, the conversion process is based on GDAL routines, enabling customized spatial filters or SQL-like queries, further boosting import performance.

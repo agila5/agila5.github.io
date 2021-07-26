@@ -1,8 +1,14 @@
 name: "Andrea Gilardi"
+
 title: ""
+
 description: |
   Andrea Gilardi's academic website
+
+base_url: https://agila5.github.io/
+
 output_dir: "docs"
+
 navbar:
   search: false
   right:
