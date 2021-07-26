@@ -1,21 +1,27 @@
 ---
 title: "Hi!"
 ---
- 
+
+Download complete CV from [here](https://github.com/agila5/cv/raw/master/gilardi_cv.pdf). 
+
 ## Summary
 
-TODO
+I am a research fellow in Statistics at the University of Milan - Bicocca, Department of Economics, Management and Statistics (DEMS). 
+My main research interests are spatial and spatiotemporal models on road networks.
 
 ## Education
 
-TODO
+1. PhD in Statistics and Mathematical Finance, 2021, University of Milano - Bicocca
+2. MSc in Statistical (with honors), 2017, University of Milano - Bicocca
+3. BSc in Statistical (with honors), 2015, University of Milano - Bicocca
 
 ## Publications
 
-1. A
-1. B
-1. C
+1. **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Under review. [Preprint](https://arxiv.org/abs/2106.00457).
+1. Gilardi, A., Mateu, J., Borgoni, R., Lovelace, R., Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. Under review. [Preprint](https://arxiv.org/abs/2011.12595). 
+1. Gilardi, A., Lovelace, R., Padgham, M. Data structures and methods for reproducible street network analysis: overview and implementations in R. Under review. [Preprint](https://osf.io/78yub).
+1. Borgoni, R., Gilardi, A., & Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19.
 
-## Projects
+<!-- ## Projects -->
 
-TODO
+<!-- TODO -->

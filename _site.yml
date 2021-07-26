@@ -18,6 +18,8 @@ navbar:
       href: about.html
     - icon: fas fa-pencil-alt
       href: blog.html
+    - icon: far fa-envelope
+      href: mailto:andrea.gilardi@unimib.it
     - icon: fab fa-github
       href: https://github.com/agila5
 

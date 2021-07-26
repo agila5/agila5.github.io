@@ -14,13 +14,15 @@
     <generator>Distill</generator>
     <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>osmextract: An R package to download, convert, and import large OpenStreetMap datasets - useR2021</title>
+      <title>osmextract: An R package to download, convert, and import large Open Street Map datasets - useR2021</title>
       <dc:creator>Andrea Gilardi</dc:creator>
       <dc:creator>Robin Lovelace</dc:creator>
       <link>https://agila5.github.io/posts/2021-07-06-useR2021</link>
       <description>Slides used for introducing the R package osmextract at useR2021 conference.</description>
+      <category>Open Street Map</category>
       <guid>https://agila5.github.io/posts/2021-07-06-useR2021</guid>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png" medium="image" type="image/png"/>
     </item>
     <item>
       <title>Tests...</title>

@@ -1,5 +1,5 @@
 ---
-title: "osmextract: An R package to download, convert, and import large OpenStreetMap datasets - useR2021"
+title: "osmextract: An R package to download, convert, and import large Open Street Map datasets - useR2021"
 description: |
   Slides used for introducing the R package osmextract at useR2021 conference.
 author:
@@ -16,6 +16,10 @@ output:
   distill::distill_article:
     self_contained: false
 draft: false
+categories:
+  - Open Street Map 
+preview: https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png
+citation: false
 ---
 
 The following slides were used to present the `osmextract` R package at [useR2021](https://user2021.r-project.org/) conference. 
