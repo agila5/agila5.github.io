@@ -12,7 +12,21 @@
       <link>https://agila5.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Measurement error models on spatial network lattices: car crashes in Leeds</title>
+      <dc:creator>Andrea Gilardi</dc:creator>
+      <dc:creator>Riccardo Borgoni</dc:creator>
+      <dc:creator>Luca Presicce</dc:creator>
+      <dc:creator>Jorge Mateu</dc:creator>
+      <link>https://agila5.github.io/posts/2021-09-11-CLADAG2021</link>
+      <description>Slides used for presenting at CLADAG 2021 conference.</description>
+      <category>Spatial Statistics</category>
+      <category>Spatial network lattice models</category>
+      <guid>https://agila5.github.io/posts/2021-09-11-CLADAG2021</guid>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://agila5.github.io/posts/2021-09-11-CLADAG2021/figures/crashes-map.png" medium="image" type="image/png" width="2561" height="2100"/>
+    </item>
     <item>
       <title>osmextract: An R package to download, convert, and import large Open Street Map datasets - useR2021</title>
       <dc:creator>Andrea Gilardi</dc:creator>
@@ -22,7 +36,7 @@
       <category>Open Street Map</category>
       <category>R</category>
       <guid>https://agila5.github.io/posts/2021-07-06-useR2021</guid>
-      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       <media:content url="https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png" medium="image" type="image/png"/>
     </item>
     <item>
@@ -31,7 +45,7 @@
       <dc:creator>Riccardo Borgoni</dc:creator>
       <dc:creator>Jorge Mateu</dc:creator>
       <link>https://agila5.github.io/posts/2021-06-25-SIS2021</link>
-      <description>Slides used for presenting at SIS-2021 conference.</description>
+      <description>Slides used for presenting at SIS 2021 conference.</description>
       <category>Spatial Statistics</category>
       <category>Point patterns on road networks</category>
       <guid>https://agila5.github.io/posts/2021-06-25-SIS2021</guid>

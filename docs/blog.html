@@ -1784,7 +1784,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_site_in_header-->
   <style type="text/css">
   /* nav bar */
-  
   .distill-site-header {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     color: #fff;
@@ -1800,6 +1799,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     width: auto;
   }
   
+  /* Slightly larger margin on the posts sidebar */
+  .posts-with-sidebar .posts-sidebar {
+    width: 22%;
+  }
   
   </style>
   <!--/radix_placeholder_site_in_header-->
@@ -1981,10 +1984,33 @@ function init_posts_list() {
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Presentations, ideas, blogs ...">Presentations, ideas, blogs ...</h1>
+<a href="posts/2021-09-11-CLADAG2021/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Spatial Statistics","Spatial network lattice models"]}</script>
+<div class="metadata">
+<div class="publishedDate">Sept. 11, 2021</div>
+<div class="dt-authors">
+<div class="dt-author">Andrea Gilardi</div>
+<div class="dt-author">Riccardo Borgoni</div>
+<div class="dt-author">Luca Presicce</div>
+<div class="dt-author">Jorge Mateu</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="posts/2021-09-11-CLADAG2021/figures/crashes-map.png"/>
+</div>
+<div class="description">
+<h2>Measurement error models on spatial network lattices: car crashes in Leeds</h2>
+<div class="dt-tags">
+<div class="dt-tag">Spatial Statistics</div>
+<div class="dt-tag">Spatial network lattice models</div>
+</div>
+<p>Slides used for presenting at CLADAG 2021 conference.</p>
+</div>
+</a>
 <a href="posts/2021-07-06-useR2021/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["Open Street Map","R"]}</script>
 <div class="metadata">
-<div class="publishedDate">July 5, 2021</div>
+<div class="publishedDate">July 6, 2021</div>
 <div class="dt-authors">
 <div class="dt-author">Andrea Gilardi</div>
 <div class="dt-author">Robin Lovelace</div>
@@ -2021,7 +2047,7 @@ function init_posts_list() {
 <div class="dt-tag">Spatial Statistics</div>
 <div class="dt-tag">Point patterns on road networks</div>
 </div>
-<p>Slides used for presenting at SIS-2021 conference.</p>
+<p>Slides used for presenting at SIS 2021 conference.</p>
 </div>
 </a>
 <a href="posts/2021-05-21-tests/" class="post-preview">
@@ -2048,7 +2074,7 @@ function init_posts_list() {
 <ul>
 <li>
 <a href="#category:Articles">Articles</a>
-<span class="category-count">(3)</span>
+<span class="category-count">(4)</span>
 </li>
 <li>
 <a href="#category:Open_Street_Map">Open Street Map</a>
@@ -2063,8 +2089,12 @@ function init_posts_list() {
 <span class="category-count">(1)</span>
 </li>
 <li>
-<a href="#category:Spatial_Statistics">Spatial Statistics</a>
+<a href="#category:Spatial_network_lattice_models">Spatial network lattice models</a>
 <span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:Spatial_Statistics">Spatial Statistics</a>
+<span class="category-count">(2)</span>
 </li>
 </ul>
 </div>
@@ -2073,7 +2103,7 @@ function init_posts_list() {
 <a href="#">More articles &raquo;</a>
 </div>
 </div>
-<!--/radix_placeholder_article_listing-->
+<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
 <h1>Presentations, ideas, blogs …</h1>

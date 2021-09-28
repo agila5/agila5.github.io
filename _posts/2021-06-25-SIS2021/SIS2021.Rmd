@@ -1,7 +1,7 @@
 ---
 title: "A spatio-temporal model for events on road networks: an application to ambulance interventions in Milan"
 description: |
-  Slides used for presenting at SIS-2021 conference. 
+  Slides used for presenting at SIS 2021 conference. 
 author:
   - name: Andrea Gilardi
     url: https://agila5.github.io/
@@ -26,10 +26,6 @@ categories:
   - Point patterns on road networks
 preview: figures/milan.png
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 The following slides were used to present at the [SIS 2021](https://meetings3.sis-statistica.org/index.php/sis2021/sis2021) conference. 
 Get <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/agila5/agila5.github.io/master/data/presentations/2021-06-25-SIS2021/SIS2021.pdf" target="_blank" rel="nopener">slides</a>. 

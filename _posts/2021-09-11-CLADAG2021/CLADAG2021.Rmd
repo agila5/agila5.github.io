@@ -1,0 +1,35 @@
+---
+title: "Measurement error models on spatial network lattices: car crashes in Leeds"
+description: |
+  Slides used for presenting at CLADAG 2021 conference. 
+author:
+  - name: Andrea Gilardi
+    url: https://agila5.github.io/
+    affiliation: University of Milano - Bicocca
+    orcid_id: 0000-0002-9424-7439
+  - name: Riccardo Borgoni
+    url: https://www.unimib.it/riccardo-borgoni
+    affiliation: University of Milano - Bicocca
+    orcid_id: 0000-0002-2520-3512
+  - name: Luca Presicce 
+    affiliation: University of Milano - Bicocca
+  - name: Jorge Mateu
+    url: https://www3.uji.es/~mateu/
+    affiliation: Universitat Jaume I
+    orcid_id: 0000-0002-2868-7604
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+date: 2021-09-11
+citation: false
+categories:
+  - Spatial Statistics 
+  - Spatial network lattice models
+preview: figures/crashes-map.png
+---
+
+The following slides were used to present at the [CLADAG 2021](https://datascience.unifi.it/cladag2021/) conference. 
+Get <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/agila5/agila5.github.io/master/data/presentations/2021-09-11-CLADAG2021/CLADAG2021.pdf" target="_blank" rel="nopener">slides</a>. 
+
+Abstract: Road casualties represent the leading cause of death among young people worldwide, especially in poor and developing countries. This paper introduces a Bayesian hierarchical model to analyse car accidents on a network lattice that takes into account measurement error in spatial covariates. We exemplified the proposed approach analysing all car crashes that occurred in the road network of Leeds (UK) from 2011 to 2019. Our results show that omitting measurement error considerably worsens the fit of the model and attenuates the effects of spatial covariates.

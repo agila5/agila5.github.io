@@ -1,5 +1,4 @@
 /* nav bar */
-
 .distill-site-header {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   color: #fff;
@@ -15,3 +14,7 @@
   width: auto;
 }
 
+/* Slightly larger margin on the posts sidebar */
+.posts-with-sidebar .posts-sidebar {
+  width: 22%;
+}
