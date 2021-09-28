@@ -15,7 +15,7 @@ My main research interests are spatial and spatiotemporal models on road network
 2. MSc in Statistical (with honors), 2017, University of Milano - Bicocca
 3. BSc in Statistical (with honors), 2015, University of Milano - Bicocca
 
-## Publications
+## Main publications
 
 1. **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Under review. [Preprint](https://arxiv.org/abs/2106.00457).
 1. **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R., Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. Under review. [Preprint](https://arxiv.org/abs/2011.12595). 

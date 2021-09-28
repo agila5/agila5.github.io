@@ -18,6 +18,7 @@ output:
 draft: false
 categories:
   - Open Street Map 
+  - R
 preview: https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png
 citation: false
 ---

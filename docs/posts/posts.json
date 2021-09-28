@@ -15,12 +15,43 @@
     ],
     "date": "2021-07-06",
     "categories": [
-      "Open Street Map"
+      "Open Street Map",
+      "R"
     ],
     "contents": "\r\nThe following slides were used to present the osmextract R package at useR2021 conference. Get slides and code.\r\nAbstract: OpenStreetMap (OSM) is an online database that provides open-access geographic and rich attribute data worldwide, representing a wide range of physical and human features, including roads, rivers, and political boundaries. OSM is the world’s largest open-access source of geographic vector data, comprising nodes (points), ways (lines and polygons) and relations (describing a wide range of entities). Practical applications include disaster response, transport planning, and service location. OSM datasets can be manually downloaded from the project’s servers directly or via the R package osmdata, which uses the Overpass API. Large ‘extracts’ are also available from external providers (such as geofabrik.de) in a compressed binary format based on protocol buffers. The aim of osmextract is to enable processing and import of such OSM extracts. The package is composed of three main functions that can be used to 1) match an input location with one of the OSM extracts, either via spatial matching or approximate string distance; 2) download the chosen file; 3) convert the compressed data to Geopackage format. The main function, named oe_get(), returns sf objects. This workflow is effective for importing OSM extracts covering large geographical areas. Furthermore, the conversion process is based on GDAL routines, enabling customized spatial filters or SQL-like queries, further boosting import performance.\r\n\r\n\r\n\r\n",
     "preview": "https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png",
-    "last_modified": "2021-07-26T12:48:44+02:00",
-    "input_file": {}
+    "last_modified": "2021-09-28T11:49:23+02:00",
+    "input_file": "useR2021.knit.md"
+  },
+  {
+    "path": "posts/2021-06-25-SIS2021/",
+    "title": "A spatio-temporal model for events on road networks: an application to ambulance interventions in Milan",
+    "description": "Slides used for presenting at SIS-2021 conference.",
+    "author": [
+      {
+        "name": "Andrea Gilardi",
+        "url": "https://agila5.github.io/"
+      },
+      {
+        "name": "Riccardo Borgoni",
+        "url": "https://www.unimib.it/riccardo-borgoni"
+      },
+      {
+        "name": "Jorge Mateu",
+        "url": "https://www3.uji.es/~mateu/"
+      }
+    ],
+    "date": "2021-06-25",
+    "categories": [
+      "Spatial Statistics",
+      "Point patterns on road networks"
+    ],
+    "contents": "\r\nThe following slides were used to present at the SIS 2021 conference. Get slides.\r\nAbstract: The algorithms for optimal management and deployment of ambulances within a municipality require a spatio-temporal model to forecast hotspots and minimise the response times. Ambulance interventions represent an example of a point pattern occurring on a linear network, which was created starting from the main streets of Milan. The constrained spatial domain raises particular challenges and unique methodological problems that cannot be ignored for proper model development. Hence, this paper presents a non-separable spatio-temporal model for analysing the emergency interventions that occurred in the street network of Milan from 2015 to 2017. A dynamic latent factor model is adopted for capturing the temporal evolution, while the spatial dynamics are modelled using a network readaptation of a kernel estimator.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-06-25-SIS2021/figures/milan.png",
+    "last_modified": "2021-09-28T11:49:13+02:00",
+    "input_file": "SIS2021.knit.md",
+    "preview_width": 2100,
+    "preview_height": 2100
   },
   {
     "path": "posts/2021-05-21-tests/",
@@ -36,7 +67,7 @@
     "categories": [],
     "contents": "\r\nWow, such empty\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-07-26T12:48:31+02:00",
+    "last_modified": "2021-09-27T18:39:12+02:00",
     "input_file": {}
   }
 ]
