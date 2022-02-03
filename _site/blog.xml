@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title/>
+    <title>Andrea Gilardi</title>
     <link>https://agila5.github.io/</link>
     <atom:link href="https://agila5.github.io/blog.xml" rel="self" type="application/rss+xml"/>
-    <description>Andrea Gilardi's academic website
+    <description>Andrea Gilardi's website
 </description>
     <image>
-      <title/>
+      <title>Andrea Gilardi</title>
       <url>https://agila5.github.io/favicon.ico</url>
       <link>https://agila5.github.io/</link>
     </image>

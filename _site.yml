@@ -1,20 +1,21 @@
-name: "Andrea Gilardi"
-
-title: ""
-
+name: "agila5-distill-website"
+title: "Andrea Gilardi"
 description: |
-  Andrea Gilardi's academic website
-
+  Andrea Gilardi's website
 base_url: https://agila5.github.io/
+repository_url: https://github.com/agila5/agila5.github.io
 
-output_dir: "docs"
+output_dir: "_site"
 
+twitter:
+  site: "@a_gilardi5"
+  
 navbar:
   search: false
   right:
     - icon: fas fa-home
       href: index.html
-    - icon: fas fa-address-card
+    - icon: fas fa-address-cardB
       href: about.html
     - icon: fas fa-pencil-alt
       href: blog.html
@@ -26,5 +27,3 @@ navbar:
 output: 
   distill::distill_article:
     css: style.css
-
-favicon: favicon.ico

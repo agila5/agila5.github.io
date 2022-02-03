@@ -28,7 +28,7 @@
     ],
     "contents": "\r\nThe following slides were used to present at the CLADAG 2021 conference. Get slides.\r\nAbstract: Road casualties represent the leading cause of death among young people worldwide, especially in poor and developing countries. This paper introduces a Bayesian hierarchical model to analyse car accidents on a network lattice that takes into account measurement error in spatial covariates. We exemplified the proposed approach analysing all car crashes that occurred in the road network of Leeds (UK) from 2011 to 2019. Our results show that omitting measurement error considerably worsens the fit of the model and attenuates the effects of spatial covariates.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-11-CLADAG2021/figures/crashes-map.png",
-    "last_modified": "2021-09-28T17:03:03+02:00",
+    "last_modified": "2022-02-03T14:38:03+01:00",
     "input_file": {},
     "preview_width": 2561,
     "preview_height": 2100
@@ -54,7 +54,7 @@
     ],
     "contents": "\r\nThe following slides were used to present the osmextract R package at useR2021 conference. Get slides and code.\r\nAbstract: OpenStreetMap (OSM) is an online database that provides open-access geographic and rich attribute data worldwide, representing a wide range of physical and human features, including roads, rivers, and political boundaries. OSM is the world’s largest open-access source of geographic vector data, comprising nodes (points), ways (lines and polygons) and relations (describing a wide range of entities). Practical applications include disaster response, transport planning, and service location. OSM datasets can be manually downloaded from the project’s servers directly or via the R package osmdata, which uses the Overpass API. Large ‘extracts’ are also available from external providers (such as geofabrik.de) in a compressed binary format based on protocol buffers. The aim of osmextract is to enable processing and import of such OSM extracts. The package is composed of three main functions that can be used to 1) match an input location with one of the OSM extracts, either via spatial matching or approximate string distance; 2) download the chosen file; 3) convert the compressed data to Geopackage format. The main function, named oe_get(), returns sf objects. This workflow is effective for importing OSM extracts covering large geographical areas. Furthermore, the conversion process is based on GDAL routines, enabling customized spatial filters or SQL-like queries, further boosting import performance.\r\n\r\n\r\n\r\n",
     "preview": "https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png",
-    "last_modified": "2021-09-28T11:49:24+02:00",
+    "last_modified": "2022-02-03T14:38:03+01:00",
     "input_file": {}
   },
   {
@@ -82,7 +82,7 @@
     ],
     "contents": "\r\nThe following slides were used to present at the SIS 2021 conference. Get slides.\r\nAbstract: The algorithms for optimal management and deployment of ambulances within a municipality require a spatio-temporal model to forecast hotspots and minimise the response times. Ambulance interventions represent an example of a point pattern occurring on a linear network, which was created starting from the main streets of Milan. The constrained spatial domain raises particular challenges and unique methodological problems that cannot be ignored for proper model development. Hence, this paper presents a non-separable spatio-temporal model for analysing the emergency interventions that occurred in the street network of Milan from 2015 to 2017. A dynamic latent factor model is adopted for capturing the temporal evolution, while the spatial dynamics are modelled using a network readaptation of a kernel estimator.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-06-25-SIS2021/figures/milan.png",
-    "last_modified": "2021-09-28T16:55:38+02:00",
+    "last_modified": "2022-02-03T14:38:03+01:00",
     "input_file": {},
     "preview_width": 2100,
     "preview_height": 2100
@@ -101,7 +101,7 @@
     "categories": [],
     "contents": "\r\nWow, such empty\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-27T18:39:12+02:00",
+    "last_modified": "2022-02-03T14:38:03+01:00",
     "input_file": {}
   }
 ]
