@@ -5,7 +5,7 @@ description: |
 base_url: https://agila5.github.io/
 repository_url: https://github.com/agila5/agila5.github.io
 
-output_dir: "_site"
+output_dir: "docs" #NB: Cannot set _site
 
 twitter:
   site: "@a_gilardi5"
