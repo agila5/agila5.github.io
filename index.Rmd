@@ -1,6 +1,6 @@
 ---
 title: "Andrea Gilardi"
-image: "data/images/website-image.JPG"
+image: "images/index-image.jpg"
 links:
   - label: '<i class="fab fa-twitter fa-3x"></i>'
     url: "https://twitter.com/a_gilardi5"
