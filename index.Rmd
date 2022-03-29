@@ -2,12 +2,12 @@
 title: "Andrea Gilardi"
 image: "images/index-image.jpg"
 links:
+  - label: '<i class="far fa-envelope fa-3x"></i>'
+    url: "mailto:andrea.gilardi@unimib.it"
   - label: '<i class="fab fa-twitter fa-3x"></i>'
     url: "https://twitter.com/a_gilardi5"
   - label: '<i class="fab fa-github fa-3x"></i>'
     url: "https://github.com/agila5"
-  - label: '<i class="far fa-envelope fa-3x"></i>'
-    url: "mailto:andrea.gilardi@unimib.it"
 output: postcards::trestles
 site: distill::distill_website
 ---
