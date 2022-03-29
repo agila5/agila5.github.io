@@ -1,29 +1,32 @@
 name: "agila5-distill-website"
 title: "Andrea Gilardi"
 description: |
-  Andrea Gilardi's website
+  Andrea Gilardi's website. Welcome! 
 base_url: https://agila5.github.io/
 repository_url: https://github.com/agila5/agila5.github.io
-
 output_dir: "docs" #NB: Cannot set _site
-
-twitter:
-  site: "@a_gilardi5"
-  
-navbar:
-  search: false
-  right:
-    - icon: fas fa-home
-      href: index.html
-    - icon: fas fa-address-cardB
-      href: about.html
-    - icon: fas fa-pencil-alt
-      href: blog.html
-    - icon: far fa-envelope
-      href: mailto:andrea.gilardi@unimib.it
-    - icon: fab fa-github
-      href: https://github.com/agila5
-
+theme: style.css
+twitter: 
+  site: "@a_gilardi5" #Useful for metadata (?)
+preview: images/index-image.jpg
 output: 
   distill::distill_article:
     css: style.css
+
+navbar:
+  search: false
+  left: 
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "Talks & Side Projects"
+      href: blog.html
+    - text: "About me"
+      href: about.html
+    - text: "Twitter"
+      href: https://twitter.com/a_gilardi5
+  source_url: https://github.com/agila5/agila5.github.io
+      
+collections:
+  posts:
+    categories: false

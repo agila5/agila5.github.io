@@ -82,7 +82,7 @@
     ],
     "contents": "\r\nThe following slides were used to present at the SIS 2021 conference. Get slides.\r\nAbstract: The algorithms for optimal management and deployment of ambulances within a municipality require a spatio-temporal model to forecast hotspots and minimise the response times. Ambulance interventions represent an example of a point pattern occurring on a linear network, which was created starting from the main streets of Milan. The constrained spatial domain raises particular challenges and unique methodological problems that cannot be ignored for proper model development. Hence, this paper presents a non-separable spatio-temporal model for analysing the emergency interventions that occurred in the street network of Milan from 2015 to 2017. A dynamic latent factor model is adopted for capturing the temporal evolution, while the spatial dynamics are modelled using a network readaptation of a kernel estimator.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-06-25-SIS2021/figures/milan.png",
-    "last_modified": "2022-02-03T14:38:03+01:00",
+    "last_modified": "2022-03-29T16:47:07+02:00",
     "input_file": {},
     "preview_width": 2100,
     "preview_height": 2100

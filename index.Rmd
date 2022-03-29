@@ -8,7 +8,7 @@ links:
     url: "https://github.com/agila5"
   - label: '<i class="far fa-envelope fa-3x"></i>'
     url: "mailto:andrea.gilardi@unimib.it"
-output: postcards::jolla
+output: postcards::trestles
 site: distill::distill_website
 ---
 
@@ -23,9 +23,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Check also https://aosmith16.github.io/spring-r-topics/slides/week02_distill_websites.html#1
 # and https://aosmith16.github.io/spring-r-topics/slides/week03_distill_articles_deploy.html#1
+
+# Please remember to update trestles.html to remove the second scroll bar (i.e. set style="overflow-y: none;")
 ```
 
-Hi! 
-I am a research fellow at the University of Milano - Bicocca. 
-I work mainly on spatial and spatio-temporal models on road networks. 
-I love hiking and coding with R. 
+Hi! I'm Andrea Gilardi and I'm a research fellow at the University of Milano - Bicocca. I work mainly on spatial and spatio-temporal models on linear networks. Love hiking and coding with R. 
+
+## Main publications
+
+1. **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J., Measurement Error Models for Spatial Network Lattice Data:
+Analysis of Car Crashes in Leeds. Under review. [Preprint](https://arxiv.org/pdf/2201.02394.pdf);
+1. **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Under review. [Preprint](https://arxiv.org/abs/2106.00457).
+1. **Gilardi, A.**, Lovelace, R., Padgham, M. Data structures and methods for reproducible street network analysis: overview and implementations in R. Under review. [Preprint](https://osf.io/78yub).
+1. **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R., Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [http://doi.org/10.1111/rssa.12823](http://doi.org/10.1111/rssa.12823).
+1. Borgoni, R., **Gilardi, A.**, & Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19.[https://doi.org/10.1007/s11205-020-02295-x](https://doi.org/10.1007/s11205-020-02295-x). 
+
+## Software
+
+I'm the author of two R packages published on CRAN, namely [osmextract](https://cran.r-project.org/package=osmextract) and [sfnetworks](https://cran.r-project.org/package=sfnetworks). 
+
+Get the complete curriculum vitae from [here](https://github.com/agila5/cv/raw/master/gilardi_cv.pdf).

@@ -1,20 +1,41 @@
+/* Modify CSS for the whole webpage */
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald');
+
+html {
+  --navbar-font: "Oswald";
+}
+
+body {
+  font-size: larger;
+}
+
 /* nav bar */
 .distill-site-header {
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-  color: #fff;
-  background-color: #393e46;
-  font-size: 20px;
-  font-weight: 400;
-  height: 50px;
+  --text-color:       grey;
+  --text-size:        25px;
+  --hover-color:      black;
+  --bkgd-color:       white;
 }
 
-/* Profile pic */
-.col-12.text-center img{
-  height: auto;
-  width: auto;
+.distill-site-header .title {
+  font-size: 25px;
 }
 
-/* Slightly larger margin on the posts sidebar */
+.distill-site-header {
+  text-transform: uppercase;
+}
+
+/* remove title - logo suffices*/
+.distill-site-header .title {
+  display: none;
+}
+
+.nav-header {
+  display: none;
+}
+
+/* slightly larger margin on the posts sidebar */
 .posts-with-sidebar .posts-sidebar {
   width: 22%;
 }

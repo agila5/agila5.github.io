@@ -1,27 +1,8 @@
 ---
-title: "Hi!"
+title: "About me"
 ---
 
-Download complete CV from [here](https://github.com/agila5/cv/raw/master/gilardi_cv.pdf). 
-
-## Summary
-
-I am a research fellow in Statistics at the University of Milan - Bicocca, Department of Economics, Management and Statistics (DEMS). 
-My main research interests are spatial and spatiotemporal models on road networks.
-
-## Education
-
-1. PhD in Statistics and Mathematical Finance, 2021, University of Milano - Bicocca
-2. MSc in Statistical (with honors), 2017, University of Milano - Bicocca
-3. BSc in Statistical (with honors), 2015, University of Milano - Bicocca
-
-## Main publications
-
-1. **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Under review. [Preprint](https://arxiv.org/abs/2106.00457).
-1. **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R., Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. Under review. [Preprint](https://arxiv.org/abs/2011.12595). 
-1. **Gilardi, A.**, Lovelace, R., Padgham, M. Data structures and methods for reproducible street network analysis: overview and implementations in R. Under review. [Preprint](https://osf.io/78yub).
-1. Borgoni, R., **Gilardi, A.**, & Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19.
-
-<!-- ## Projects -->
-
-<!-- TODO -->
+- **Current position: ** I'm a research fellow at the University of Milano - Bicocca since January 2021. 
+- **Research interests: ** I work mainly on spatial and spatio-temporal models for data on linear networks (such as car crashes or ambulance interventions). Get the complete curriculum vitae from [here](https://github.com/agila5/cv/raw/master/gilardi_cv.pdf).
+- **Email: ** andrea.gilardi@unimib.it
+- **Present Address: ** University of Milano-Bicocca, Department of Economics, Management and Statistics, Piazza dell'Ateneo Nuovo 1, 20126 Milano, Italy. 
