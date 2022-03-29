@@ -10,6 +10,12 @@ body {
   font-size: 1.3vw;
 }
 
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 5vw;
+  }
+}
+
 /* nav bar */
 .distill-site-header {
   --text-color:       grey;
