@@ -8,6 +8,8 @@ links:
     url: "https://twitter.com/a_gilardi5"
   - label: '<i class="fab fa-github fa-3x"></i>'
     url: "https://github.com/agila5"
+  - label: '<i class="fas fa-file-alt fa-3x"></i>'
+    url: "https://github.com/agila5/cv/raw/master/gilardi_cv.pdf"
 output: postcards::trestles
 site: distill::distill_website
 ---
@@ -41,5 +43,7 @@ Analysis of Car Crashes in Leeds. Under review. [Preprint](https://arxiv.org/pdf
 ## Software
 
 I'm the author of two R packages published on CRAN, namely [osmextract](https://cran.r-project.org/package=osmextract) and [sfnetworks](https://cran.r-project.org/package=sfnetworks). 
+
+## Curriculum vitae
 
 Get the complete curriculum vitae from [here](https://github.com/agila5/cv/raw/master/gilardi_cv.pdf).
