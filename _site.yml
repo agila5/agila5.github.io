@@ -25,7 +25,8 @@ navbar:
       href: about.html
     - text: "Twitter"
       href: https://twitter.com/a_gilardi5
-  source_url: https://github.com/agila5/agila5.github.io
+    - text: "Github"
+      href: https://github.com/agila5
       
 collections:
   posts:
