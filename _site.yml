@@ -9,6 +9,7 @@ theme: style.css
 twitter: 
   site: "@a_gilardi5" #Useful for metadata (?)
 preview: images/index-image.jpg
+google_analytics: "G-GMF8NSBKDY"
 output: 
   distill::distill_article:
     css: style.css
