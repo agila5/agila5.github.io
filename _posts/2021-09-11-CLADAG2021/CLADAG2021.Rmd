@@ -26,6 +26,7 @@ citation: false
 categories:
   - Spatial Statistics 
   - Spatial network lattice models
+  - Measurement Error
 preview: figures/crashes-map.png
 ---
 

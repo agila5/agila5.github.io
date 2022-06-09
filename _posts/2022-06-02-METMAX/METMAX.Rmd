@@ -1,0 +1,35 @@
+---
+title: "Spatial statistical calibration on linear networks: an application to the analysis of traffic volumes"
+description: |
+  Slides used for presenting at the METMA X conference. 
+author:
+  - name: Andrea Gilardi
+    url: https://agila5.github.io/
+    affiliation: University of Milano - Bicocca
+    orcid_id: 0000-0002-9424-7439
+  - name: Riccardo Borgoni
+    url: https://www.unimib.it/riccardo-borgoni
+    affiliation: University of Milano - Bicocca
+    orcid_id: 0000-0002-2520-3512
+  - name: Jorge Mateu
+    url: https://www3.uji.es/~mateu/
+    affiliation: Universitat Jaume I
+    orcid_id: 0000-0002-2868-7604
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+date: 2022-06-02
+citation: false
+categories:
+  - Spatial Statistics 
+  - Linear networks
+  - Road traffic estimation
+  - Geographically Weighted Regression
+preview: figures/directedNetAndPoints-1.png
+---
+
+The following slides were used to present at the [METMA X](http://www.metma-x.udl.cat/) conference. 
+Get <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/agila5/agila5.github.io/master/data/presentations/2022-06-02-METMAX/METMAX.pdf" target="_blank" rel="nopener">slides</a>. 
+
+Abstract: The estimation of traffic volumes on a street network represents a critical issue to improve transport planning protocols and develop effective road safety interventions. In fact, the traditional ways to produce traffic figures typically involve manual counts with ad-hoc cameras or automatic counts with road-fixed sensors (e.g. inductive loops and spirals). Unfortunately, both techniques have several limitations linked to their limited spatial coverage and high economical costs of installation and maintenance. More recently, traffic information have been collected by geo-referenced mobile sensors (e.g. smartphones and sat-navs) using ad-hoc models. These mobile sensors have several advantages, such as extremely detailed spatial resolution and extensive spatial coverage. However, since not all vehicles are equipped with GPS devices, traffic counts from mobile sensors typically underestimate the real flows.
