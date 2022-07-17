@@ -24,8 +24,8 @@ navbar:
       href: blog.html
     - text: "About me"
       href: about.html
-    - text: "Twitter"
-      href: https://twitter.com/a_gilardi5
+    # - text: "Twitter"
+    #   href: https://twitter.com/a_gilardi5
     - text: "Github"
       href: https://github.com/agila5
       
