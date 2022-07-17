@@ -1,0 +1,24 @@
+---
+title: "Lattice models for spatial data on linear networks"
+description: |
+  Slides used for the seminar at Università Cattolica del Sacro Cuore
+author:
+  - name: Andrea Gilardi
+    url: https://agila5.github.io/
+    affiliation: University of Milano - Bicocca
+    orcid_id: 0000-0002-9424-7439
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+date: 2022-07-15
+citation: false
+categories:
+  - Linear networks
+  - Lattice models
+preview: figures/sketch-net.png
+---
+
+The following slides were used to present a <a href="https://groups.google.com/u/1/g/sis-news/c/o_oAeX6Cpwo" target="_blank" rel="nopener">seminar</a> at the Università Cattolica del Sacro Cuore. Get <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/agila5/agila5.github.io/master/data/presentations/2022-07-15-unicatt/main.pdf" target="_blank" rel="nopener">slides</a>. 
+
+Abstract: In the last years, we observed a surge of interest in the statistical analysis of spatial data lying on or alongside networks. Car crashes, vehicle thefts, and ambulance interventions are just few of the most typical examples, whereas the edges of the network represent an abstraction of roads, rivers or railways. In this talk, we discuss two approaches for the analysis of car-crashes at the street network level. In both cases, the analyses are based on a major city (Leeds, UK) in which car crashes of different severity were recorded over several years. In the first project, we introduce a multivariate Bayesian hierarchical model that includes spatially structured and unstructured random effects to capture the spatial nature of the events and the dependencies between the severity levels. We also discuss a novel procedure for testing the presence of MAUP at the network-lattice level. In the second part of the talk, we present a series of preliminary results that extend the first project by including an external covariate that suffers from spatial measurement error. The suggested methodology is exemplified considering estimates of traffic volumes at the road network level obtained from mobile devices.

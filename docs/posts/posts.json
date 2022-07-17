@@ -1,5 +1,27 @@
 [
   {
+    "path": "posts/2022-07-15-unicatt/",
+    "title": "Lattice models for spatial data on linear networks",
+    "description": "Slides used for the seminar at Università Cattolica del Sacro Cuore",
+    "author": [
+      {
+        "name": "Andrea Gilardi",
+        "url": "https://agila5.github.io/"
+      }
+    ],
+    "date": "2022-07-15",
+    "categories": [
+      "Linear networks",
+      "Lattice models"
+    ],
+    "contents": "\r\nThe following slides were used to present a seminar at the Università Cattolica del Sacro Cuore. Get slides.\r\nAbstract: In the last years, we observed a surge of interest in the statistical analysis of spatial data lying on or alongside networks. Car crashes, vehicle thefts, and ambulance interventions are just few of the most typical examples, whereas the edges of the network represent an abstraction of roads, rivers or railways. In this talk, we discuss two approaches for the analysis of car-crashes at the street network level. In both cases, the analyses are based on a major city (Leeds, UK) in which car crashes of different severity were recorded over several years. In the first project, we introduce a multivariate Bayesian hierarchical model that includes spatially structured and unstructured random effects to capture the spatial nature of the events and the dependencies between the severity levels. We also discuss a novel procedure for testing the presence of MAUP at the network-lattice level. In the second part of the talk, we present a series of preliminary results that extend the first project by including an external covariate that suffers from spatial measurement error. The suggested methodology is exemplified considering estimates of traffic volumes at the road network level obtained from mobile devices.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-07-15-unicatt/figures/sketch-net.png",
+    "last_modified": "2022-07-17T13:05:12+02:00",
+    "input_file": {},
+    "preview_width": 630,
+    "preview_height": 630
+  },
+  {
     "path": "posts/2022-06-02-METMAX/",
     "title": "Spatial statistical calibration on linear networks: an application to the analysis of traffic volumes",
     "description": "Slides used for presenting at the METMA X conference.",
@@ -26,7 +48,7 @@
     ],
     "contents": "\r\nThe following slides were used to present at the METMA X conference. Get slides.\r\nAbstract: The estimation of traffic volumes on a street network represents a critical issue to improve transport planning protocols and develop effective road safety interventions. In fact, the traditional ways to produce traffic figures typically involve manual counts with ad-hoc cameras or automatic counts with road-fixed sensors (e.g. inductive loops and spirals). Unfortunately, both techniques have several limitations linked to their limited spatial coverage and high economical costs of installation and maintenance. More recently, traffic information have been collected by geo-referenced mobile sensors (e.g. smartphones and sat-navs) using ad-hoc models. These mobile sensors have several advantages, such as extremely detailed spatial resolution and extensive spatial coverage. However, since not all vehicles are equipped with GPS devices, traffic counts from mobile sensors typically underestimate the real flows.\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-06-02-METMAX/figures/directedNetAndPoints-1.png",
-    "last_modified": "2022-06-09T11:45:45+02:00",
+    "last_modified": "2022-07-16T14:16:43+02:00",
     "input_file": {},
     "preview_width": 3322,
     "preview_height": 2859
@@ -61,7 +83,7 @@
     ],
     "contents": "\r\nThe following slides were used to present at the CLADAG 2021 conference. Get slides.\r\nAbstract: Road casualties represent the leading cause of death among young people worldwide, especially in poor and developing countries. This paper introduces a Bayesian hierarchical model to analyse car accidents on a network lattice that takes into account measurement error in spatial covariates. We exemplified the proposed approach analysing all car crashes that occurred in the road network of Leeds (UK) from 2011 to 2019. Our results show that omitting measurement error considerably worsens the fit of the model and attenuates the effects of spatial covariates.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-09-11-CLADAG2021/figures/crashes-map.png",
-    "last_modified": "2022-06-09T11:46:56+02:00",
+    "last_modified": "2022-07-16T14:16:43+02:00",
     "input_file": {},
     "preview_width": 2561,
     "preview_height": 2100
@@ -87,7 +109,7 @@
     ],
     "contents": "\r\nThe following slides were used to present the osmextract R package at useR2021 conference. Get slides and code.\r\nAbstract: OpenStreetMap (OSM) is an online database that provides open-access geographic and rich attribute data worldwide, representing a wide range of physical and human features, including roads, rivers, and political boundaries. OSM is the world’s largest open-access source of geographic vector data, comprising nodes (points), ways (lines and polygons) and relations (describing a wide range of entities). Practical applications include disaster response, transport planning, and service location. OSM datasets can be manually downloaded from the project’s servers directly or via the R package osmdata, which uses the Overpass API. Large ‘extracts’ are also available from external providers (such as geofabrik.de) in a compressed binary format based on protocol buffers. The aim of osmextract is to enable processing and import of such OSM extracts. The package is composed of three main functions that can be used to 1) match an input location with one of the OSM extracts, either via spatial matching or approximate string distance; 2) download the chosen file; 3) convert the compressed data to Geopackage format. The main function, named oe_get(), returns sf objects. This workflow is effective for importing OSM extracts covering large geographical areas. Furthermore, the conversion process is based on GDAL routines, enabling customized spatial filters or SQL-like queries, further boosting import performance.\r\n\r\n\r\n\r\n",
     "preview": "https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png",
-    "last_modified": "2022-03-29T17:28:36+02:00",
+    "last_modified": "2022-07-16T14:16:42+02:00",
     "input_file": {}
   },
   {
@@ -115,7 +137,7 @@
     ],
     "contents": "\r\nThe following slides were used to present at the SIS 2021 conference. Get slides.\r\nAbstract: The algorithms for optimal management and deployment of ambulances within a municipality require a spatio-temporal model to forecast hotspots and minimise the response times. Ambulance interventions represent an example of a point pattern occurring on a linear network, which was created starting from the main streets of Milan. The constrained spatial domain raises particular challenges and unique methodological problems that cannot be ignored for proper model development. Hence, this paper presents a non-separable spatio-temporal model for analysing the emergency interventions that occurred in the street network of Milan from 2015 to 2017. A dynamic latent factor model is adopted for capturing the temporal evolution, while the spatial dynamics are modelled using a network readaptation of a kernel estimator.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-06-25-SIS2021/figures/milan.png",
-    "last_modified": "2022-03-29T17:28:36+02:00",
+    "last_modified": "2022-07-16T14:16:42+02:00",
     "input_file": {},
     "preview_width": 2100,
     "preview_height": 2100
@@ -134,7 +156,7 @@
     "categories": [],
     "contents": "\r\nWow, such empty\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-03-29T17:28:35+02:00",
+    "last_modified": "2022-07-16T14:16:42+02:00",
     "input_file": {}
   }
 ]

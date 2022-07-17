@@ -7,7 +7,18 @@
     <description>Andrea Gilardi's website. Welcome! 
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Lattice models for spatial data on linear networks</title>
+      <dc:creator>Andrea Gilardi</dc:creator>
+      <link>https://agila5.github.io/posts/2022-07-15-unicatt</link>
+      <description>Slides used for the seminar at Università Cattolica del Sacro Cuore</description>
+      <category>Linear networks</category>
+      <category>Lattice models</category>
+      <guid>https://agila5.github.io/posts/2022-07-15-unicatt</guid>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://agila5.github.io/posts/2022-07-15-unicatt/figures/sketch-net.png" medium="image" type="image/png" width="630" height="630"/>
+    </item>
     <item>
       <title>Spatial statistical calibration on linear networks: an application to the analysis of traffic volumes</title>
       <dc:creator>Andrea Gilardi</dc:creator>
