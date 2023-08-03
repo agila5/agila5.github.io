@@ -3,7 +3,7 @@ title: "Andrea Gilardi"
 image: "images/index-image.jpg"
 links:
   - label: '<i class="far fa-envelope fa-3x"></i>'
-    url: "mailto:andrea.gilardi@unimib.it"
+    url: "mailto:andrea.gilardi@polimi.it"
   - label: '<i class="fab fa-twitter fa-3x"></i>'
     url: "https://twitter.com/a_gilardi5"
   - label: '<i class="fab fa-github fa-3x"></i>'
@@ -26,19 +26,18 @@ knitr::opts_chunk$set(echo = FALSE)
 # Check also https://aosmith16.github.io/spring-r-topics/slides/week02_distill_websites.html#1
 # and https://aosmith16.github.io/spring-r-topics/slides/week03_distill_articles_deploy.html#1
 
-# Please remember to update trestles.html to remove the second scroll bar (i.e. set style="overflow-y: none;")
+# Please remember to update postcards::trestles.html to remove the second scroll bar (i.e. set style="overflow-y: none;")
 ```
 
-Hi! I'm Andrea Gilardi and I'm a research fellow at the University of Milano - Bicocca. I work mainly on spatial and spatio-temporal models on linear networks. Love hiking and coding with R. 
+Hi! I'm Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the [Department of Mathematics](https://www.mate.polimi.it/?lg=en) of [Politecnico di Milano](https://www.polimi.it/en). I am a member of the [MOX](https://mox.polimi.it/) laboratory of mathematical modelling and scientific computing. My main research interests focus on spatial and spatio-temporal models for events on linear networks. Love hiking and coding with R. 
 
 ## Main publications
 
-1. **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J., Measurement Error Models for Spatial Network Lattice Data:
-Analysis of Car Crashes in Leeds. Under review. [Preprint](https://arxiv.org/pdf/2201.02394.pdf);
-1. **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Under review. [Preprint](https://arxiv.org/abs/2106.00457).
 1. **Gilardi, A.**, Lovelace, R., Padgham, M. Data structures and methods for reproducible street network analysis: overview and implementations in R. Under review. [Preprint](https://osf.io/78yub).
-1. **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R., Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [http://doi.org/10.1111/rssa.12823](http://doi.org/10.1111/rssa.12823).
-1. Borgoni, R., **Gilardi, A.**, & Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19.[https://doi.org/10.1007/s11205-020-02295-x](https://doi.org/10.1007/s11205-020-02295-x). 
+1. **Gilardi, A.**, Borgoni, R., Mateu, J. (2023+) A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Accepted for publication in *Annals of Applied Statistics*. [Preprint](https://arxiv.org/abs/2106.00457).
+1. **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [http://doi.org/10.1093/jrsssa/qnad057](https://doi.org/10.1093/jrsssa/qnad057).
+1. **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [http://doi.org/10.1111/rssa.12823](http://doi.org/10.1111/rssa.12823).
+1. Borgoni, R., **Gilardi, A.**, Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19.[https://doi.org/10.1007/s11205-020-02295-x](https://doi.org/10.1007/s11205-020-02295-x). 
 
 ## Software
 

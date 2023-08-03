@@ -7,7 +7,7 @@
     <description>Andrea Gilardi's website. Welcome! 
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>2022-07-15</lastBuildDate>
     <item>
       <title>Lattice models for spatial data on linear networks</title>
       <dc:creator>Andrea Gilardi</dc:creator>
@@ -16,7 +16,7 @@
       <category>Linear networks</category>
       <category>Lattice models</category>
       <guid>https://agila5.github.io/posts/2022-07-15-unicatt</guid>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>2022-07-15</pubDate>
       <media:content url="https://agila5.github.io/posts/2022-07-15-unicatt/figures/sketch-net.png" medium="image" type="image/png" width="630" height="630"/>
     </item>
     <item>
@@ -31,7 +31,7 @@
       <category>Road traffic estimation</category>
       <category>Geographically Weighted Regression</category>
       <guid>https://agila5.github.io/posts/2022-06-02-METMAX</guid>
-      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>2022-06-02</pubDate>
       <media:content url="https://agila5.github.io/posts/2022-06-02-METMAX/figures/directedNetAndPoints-1.png" medium="image" type="image/png" width="3322" height="2859"/>
     </item>
     <item>
@@ -46,7 +46,7 @@
       <category>Spatial network lattice models</category>
       <category>Measurement Error</category>
       <guid>https://agila5.github.io/posts/2021-09-11-CLADAG2021</guid>
-      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-09-11</pubDate>
       <media:content url="https://agila5.github.io/posts/2021-09-11-CLADAG2021/figures/crashes-map.png" medium="image" type="image/png" width="2561" height="2100"/>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <category>Open Street Map</category>
       <category>R</category>
       <guid>https://agila5.github.io/posts/2021-07-06-useR2021</guid>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-07-06</pubDate>
       <media:content url="https://user-images.githubusercontent.com/22221146/123111691-65be5c80-d43d-11eb-87ff-cced0e52f003.png" medium="image" type="image/png"/>
     </item>
     <item>
@@ -71,7 +71,7 @@
       <category>Spatial Statistics</category>
       <category>Point patterns on road networks</category>
       <guid>https://agila5.github.io/posts/2021-06-25-SIS2021</guid>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-06-25</pubDate>
       <media:content url="https://agila5.github.io/posts/2021-06-25-SIS2021/figures/milan.png" medium="image" type="image/png" width="2100" height="2100"/>
     </item>
     <item>
@@ -80,7 +80,7 @@
       <link>https://agila5.github.io/posts/2021-05-21-tests</link>
       <description>Rmd file for testing purposes</description>
       <guid>https://agila5.github.io/posts/2021-05-21-tests</guid>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>2021-05-21</pubDate>
     </item>
   </channel>
 </rss>

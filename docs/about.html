@@ -456,8 +456,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <!--/radix_placeholder_navigation_in_header-->
   <!--radix_placeholder_distill-->
@@ -527,6 +527,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1612,7 +1613,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2088,7 +2090,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2197,10 +2199,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <ul>
-<li><strong>Current position: </strong> I’m a research fellow at the University of Milano - Bicocca since January 2021. I’m working on a project entitled <em>Spatio-temporal models for spatial network data</em> under the supervision of <a href="https://www.unimib.it/riccardo-borgoni">Prof. Riccardo Borgoni</a>.</li>
+<li><strong>Current position: </strong> I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the <a href="https://www.mate.polimi.it/?lg=en">Department of Mathematics</a> of <a href="https://www.polimi.it/en">Politecnico di Milano</a>. I am a member of the <a href="https://mox.polimi.it/">MOX</a> laboratory of mathematical modelling and scientific computing. I am currently working on a project named GRINS: Growing Resilient, INclusive and Sustainable which is part of the Next Generation EU program (National Recovery and Resilience Plan).</li>
 <li><strong>Research interests: </strong> I work mainly on spatial and spatio-temporal models for data on linear networks (such as car crashes or ambulance interventions). Get the complete curriculum vitae from <a href="https://github.com/agila5/cv/raw/master/gilardi_cv.pdf">here</a>.</li>
-<li><strong>Email: </strong> <a href="mailto:andrea.gilardi@unimib.it" class="email">andrea.gilardi@unimib.it</a></li>
-<li><strong>Present Address: </strong> University of Milano-Bicocca, Department of Economics, Management and Statistics, Piazza dell’Ateneo Nuovo 1, 20126 Milano, Italy.</li>
+<li><strong>Email: </strong> <a href="mailto:andrea.gilardi@polimi.it" class="email">andrea.gilardi@polimi.it</a></li>
+<li><strong>Present Address: </strong> Politecnico di Milano, Department of Mathematics, Piazza Leonardo da Vinci, 32 – 20133 Milano - building 14 “Nave” Campus Bonardi, Italy.</li>
 </ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
