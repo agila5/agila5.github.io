@@ -1,4 +1,0 @@
----
-title: "Presentations, ideas, blogs ..."
-listing: posts
----

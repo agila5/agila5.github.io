@@ -1,0 +1,44 @@
+---
+title: "Andrea Gilardi"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/a_gilardi5"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/agila5"
+    - text: Email
+      url: "mailto:andrea.gilardi@polimi.it"
+    - text: CV
+      url: "gilardi_cv.pdf"
+comments: false
+---
+::: {.column-page}
+
+## Bio
+
+Hi! I’m Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the [Department of Mathematics](https://www.mate.polimi.it/?lg=en) of [Politecnico di Milano](https://www.polimi.it/en). I am a member of the [MOX](https://mox.polimi.it/) laboratory of mathematical modelling and scientific computing. My main research interests focus on spatial and spatio-temporal models for events on linear networks. Love hiking and coding with R.
+
+<p></p>
+
+## Selected Projects
+
+#### Publications
+
+**Gilardi, A.**, Borgoni, R., Mateu, J. (2023+) A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Accepted for publication in Annals of Applied Statistics. [[Link]](https://arxiv.org/abs/2106.00457). 
+
+**Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. Journal of the Royal Statistical Society: Series A (Statistics in Society). [[Link]](http://doi.org/10.1093/jrsssa/qnad057).
+
+**Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. Journal of the Royal Statistical Society: Series A (Statistics in Society). [[Link]](http://doi.org/10.1111/rssa.12823).
+
+Borgoni, R., **Gilardi, A.**, Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19. [[Link]](https://doi.org/10.1007/s11205-020-02295-x).
+
+#### R Packages
+
+**[sfnetworks](https://luukvdmeer.github.io/sfnetworks/)** | Tidy Geospatial Networks in R  | 2020  
+**[osmextract](https://docs.ropensci.org/osmextract/)** | Match, download, convert and import Open Street Map data extracts obtained from [Geofabrik](http://www.geofabrik.de/) and several other providers | 2020  
+
+:::

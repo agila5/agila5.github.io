@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrea Gilardi",
+    "section": "",
+    "text": "Hi! I’m Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the Department of Mathematics of Politecnico di Milano. I am a member of the MOX laboratory of mathematical modelling and scientific computing. My main research interests focus on spatial and spatio-temporal models for events on linear networks. Love hiking and coding with R.\n\n\n\n\n\n\n\nGilardi, A., Borgoni, R., Mateu, J. (2023+) A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Accepted for publication in Annals of Applied Statistics. [Link].\nGilardi, A., Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. Journal of the Royal Statistical Society: Series A (Statistics in Society). [Link].\nGilardi, A., Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. Journal of the Royal Statistical Society: Series A (Statistics in Society). [Link].\nBorgoni, R., Gilardi, A., Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19. [Link].\n\n\n\nsfnetworks | Tidy Geospatial Networks in R | 2020\nosmextract | Match, download, convert and import Open Street Map data extracts obtained from Geofabrik and several other providers | 2020"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Andrea Gilardi",
+    "section": "",
+    "text": "Hi! I’m Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the Department of Mathematics of Politecnico di Milano. I am a member of the MOX laboratory of mathematical modelling and scientific computing. My main research interests focus on spatial and spatio-temporal models for events on linear networks. Love hiking and coding with R."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Andrea Gilardi",
+    "section": "",
+    "text": "Gilardi, A., Borgoni, R., Mateu, J. (2023+) A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Accepted for publication in Annals of Applied Statistics. [Link].\nGilardi, A., Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. Journal of the Royal Statistical Society: Series A (Statistics in Society). [Link].\nGilardi, A., Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. Journal of the Royal Statistical Society: Series A (Statistics in Society). [Link].\nBorgoni, R., Gilardi, A., Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. Social Indicators Research, 1-19. [Link].\n\n\n\nsfnetworks | Tidy Geospatial Networks in R | 2020\nosmextract | Match, download, convert and import Open Street Map data extracts obtained from Geofabrik and several other providers | 2020"
+  }
+]

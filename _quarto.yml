@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - gilardi_cv.pdf
+
+website:
+  title: "Andrea Gilardi"
+  site-url: https://agila5.github.io/
+  description: "Andrea Gilardi's Personal Webpage"
+  open-graph: 
+    locale: en_UK
+  twitter-card:
+    creator: "@a_gilardi5"
+  google-analytics: 
+    tracking-id: "G-GMF8NSBKDY"
+    storage: none
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+  search: false
+
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
+    
+about: 
+  template: trestles
