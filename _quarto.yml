@@ -7,7 +7,7 @@ project:
 website:
   title: "Andrea Gilardi"
   site-url: https://agila5.github.io/
-  description: "Andrea Gilardi's Personal Webpage"
+  description: "Andrea Gilardi's Academic Website"
   open-graph: 
     locale: en_UK
   twitter-card:
@@ -24,7 +24,6 @@ website:
 format:
   html:
     theme: [sandstone, _variables.scss]
-    css: styles.css
     
 about: 
   template: trestles
