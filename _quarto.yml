@@ -19,11 +19,10 @@ website:
     right:
       - text: "Home"
         href: index.qmd
+      - text: "About me"
+        href: about.qmd
   search: false
 
 format:
   html:
     theme: [sandstone, _variables.scss]
-    
-about: 
-  template: trestles

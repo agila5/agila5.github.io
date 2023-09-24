@@ -23,9 +23,7 @@ Hi! I'm Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, L
 
 <p></p>
 
-## Selected Projects
-
-#### Publications
+### Selected Publications
 
 **Gilardi, A.**, Borgoni, R., Mateu, J. (2023+) A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. Accepted for publication in *Annals of Applied Statistics*. [\[Link\]](https://arxiv.org/abs/2106.00457).
 
@@ -35,7 +33,7 @@ Hi! I'm Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, L
 
 Borgoni, R., **Gilardi, A.**, Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. *Social Indicators Research*. [\[Link\]](https://doi.org/10.1007/s11205-020-02295-x).
 
-#### R Packages
+### R Packages
 
 [**sfnetworks**](https://luukvdmeer.github.io/sfnetworks/) \| Tidy Geospatial Networks in R \| 2020\
 [**osmextract**](https://docs.ropensci.org/osmextract/) \| Match, download, convert and import Open Street Map data extracts obtained from [Geofabrik](http://www.geofabrik.de/) and several other providers \| 2020

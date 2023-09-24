@@ -1,0 +1,44 @@
+---
+format: 
+  html:
+    page-layout: full
+    toc: true
+---
+
+## About me 
+
+* **Current Position**: I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the [Department of Mathematics](https://www.mate.polimi.it/?lg=en) of [Politecnico di Milano](https://www.polimi.it/en). I am a member of the [MOX](https://mox.polimi.it/) laboratory of mathematical modelling and scientific computing. Currently, I'm working on a project named GRINS: Growing Resilient, INclusive and Sustainable which is part of the Next Generation EU program (National Recovery and Resilience Plan).
+* **Research Interests**: Spatial and spatio-temporal models for data on linear networks.
+* **Email Address**: andrea.gilardi@polimi.it
+* **Present Address**: Politecnico di Milano, Department of Mathematics, Piazza Leonardo da Vinci, 32 – 20133 Milano - building 14 “Nave” Campus Bonardi, Italy.
+
+## Publications
+
+### Articles in refereed journals
+
+* **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2023+) Accepted for publication in *Annals of Applied Statistics*. [[Link]](https://arxiv.org/abs/2106.00457). 
+* **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, Volume 186, Issue 3, July 2023, Pages 313–334. [[Link]](https://doi.org/10.1093/jrsssa/qnad057). 
+* **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, Volume 185, Issue 3, July 2022, Pages 1150–1177. [[Link]](http://doi.org/10.1111/rssa.12823). 
+* Borgoni, R., **Gilardi, A.**, Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. *Social Indicators Research*, 1-19. [[Link]](https://doi.org/10.1007/s11205-020-02295-x). 
+
+### Refereed conference proceedings, publications in monographs, discussions
+
+* **Gilardi, A.**, Borgoni, R., The impact of traffic flow and road signs on road accidents: an approach based on spatiotemporal point pattern analysis on linear networks. In: *Book of the Short Papers - SIS 2023* (pp. 702-707), Pearson, ISBN: 9788891935618AAVV, Ancona (IT). [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/bozza-book-compresso.pdf). 
+* **Gilardi, A.**, Borgoni, R., Mateu, J. (2022). Geographically weighted regression for spatial network data: an application to traffic volumes estimation. In *51th Scientific Meeting of the Italian Statistical Society* (pp. 1504 - 1509). Torino:Pearson Italia. ISBN: 9788891932310, Caserta (IT). [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf).
+* **Gilardi, A.**, Borgoni, R., Mateu, J. (2022). Spatial statistical calibration on linear networks: an application to the analysis of traffic volumes. In *Proceedings of the 10th International Workshop on Spatio-Temporal Modelling*, Lleida (Spain), 1-3 June 2022. ISBN 978-84-9144-364-3. [[Link]](http://doi.org/10.21001/METMA_X).
+* **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2021) Measurement error models on spatial network lattices: car crashes in Leeds. In *13th Scientific Meeting of the Classification and Data Analysis Group*, Firenze, September 9-11, 2021. [[Link]](https://doi.org/10.36253/978-88-5518-340-6). 
+* **Gilardi, A.**, Borgoni, R., Mateu, J. (2021). A spatio-temporal model for events on road networks: an application to ambulance interventions in Milan. In *50th Scientific Meeting of the Italian Statistical Society* (pp. 702 - 707). Torino, Pearson Italia. ISBN: 9788891927361, Pisa - Virtual. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-1.pdf). 
+* Borgoni, R., **Gilardi, A.**, Zappa, D. (2020). Spatial modelling of driver crash risk using georeferenced data. In *NESPUTT 2019 - New Economic & Statistical Perspectives on Urban & Territorial Themes*. (NESPUTT 2019). E-book. vol. libreriauniversitaria, ISBN: 9788833592091, University of Milan - Bicocca, 2019. [[Link]](https://www.libreriauniversitaria.it/ebook/9788833592091/autore-riccardo-borgoni/ebook-new-economic-statistical-perspectives-on-urban-and-territorial-themes-nesputt-2019.htm). 
+* **Gilardi, A.**, Borgoni, R., Zappa, D. (2020). Assessing the Risk of Car Accidents in Road Networks. In *NESPUTT 2019 - New Economic & Statistical Perspectives on Urban & Territorial Themes*. (NESPUTT 2019). E-book. vol. libreriauniversitaria, ISBN: 9788833592091, University of Milan - Bicocca, 2019. [[Link]](https://www.libreriauniversitaria.it/ebook/9788833592091/autore-riccardo-borgoni/ebook-new-economic-statistical-perspectives-on-urban-and-territorial-themes-nesputt-2019.htm). 
+* **Gilardi, A.**, Borgoni, R., Zappa, D. (2019). Spatial Logistic Regression for Events Lying on a Network: Car Crashes in Milan. In: *Book of Short Papers SIS2019*. (pp. 1165-1170), Pearson, ISBN: 9788891915108, Milano, 2019. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf). 
+* **Gilardi, A.**, Borgoni, R., Pagliosa, A., Bonora, R. (2018). Spatiotemporal Prevision for Emergency Medical System Events in Milan. In: *Book of short Papers SIS 2018* (pp. 1697-1702). ISBN: 9788891910233, Palermo, Italia, 2018. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V4.pdf). 
+
+<!-- ### Submitted and working papers -->
+
+## Awards and Grants
+
+* Travel award to attend the [R Project Sprint 2023](https://contributor.r-project.org/r-project-sprint-2023/) event. 650£.
+* [Tidy Spatial Networks in R](https://www.r-consortium.org/projects/awarded-projects/2019-group-2\#Tidy+spatial+networks+in+R) project funded by the [R Consortium](https://www.r-consortium.org/). 9000$. Joint project with [Lucas van der Meer](https://www.linkedin.com/in/luuk-van-der-meer/), [Lorena Abad](https://scholar.google.com/citations?user=vDqPwpUAAAAJ&hl=en&oi=sra), and [Robin Lovelace](https://scholar.google.com/citations?user=xDJHVCAAAAAJ&hl=en&oi=ao).
+* Scolarship for the OpenGeoHub 2020 - Summer School. Project: *plotKML functionality to support sf and stars objects*. 800€.
+* [SIS](https://www.sis-statistica.it/) award for the best poster at the SIS-2019 conference.
+* [Young-SIS](https://youngsis.github.io/) award for the best poster at the SIS-2018 conference.
