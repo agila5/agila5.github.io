@@ -25,7 +25,7 @@ Hi! I'm Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, L
 
 ### Selected Publications
 
-**Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2024) *Annals of Applied Statistics*. [[Link]](dx.doi.org/10.1214/23-AOAS1800).
+**Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2024) *Annals of Applied Statistics*. [[Link]](https://doi.org/10.1214/23-AOAS1800).
 
 **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [\[Link\]](http://doi.org/10.1093/jrsssa/qnad057).
 
