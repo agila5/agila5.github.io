@@ -4,14 +4,14 @@ image: avatar.jpg
 about:
   template: trestles
   links:
-    - text: Twitter
-      icon: twitter
-      url: "https://twitter.com/a_gilardi5"
+    # - text: Bluesky
+      # icon: bluesky
+      # url: "https://twitter.com/a_gilardi5"
     - text: GitHub
       icon: github
       url: "https://github.com/agila5"
     - text: Email
-      url: "mailto:andrea.gilardi@polimi.it"
+      url: "mailto:andrea.gilardi@unimib.it"
     - text: CV
       url: "gilardi_cv.pdf"
 ---
@@ -19,13 +19,16 @@ about:
 ::: column-page
 ## Bio
 
-Hi! I'm Andrea Gilardi and I am an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the [Department of Mathematics](https://www.mate.polimi.it/?lg=en) of [Politecnico di Milano](https://www.polimi.it/en). I am a member of the [MOX](https://mox.polimi.it/) laboratory of mathematical modelling and scientific computing. My main research interests focus on spatial and spatio-temporal models for events on linear networks. Love hiking and coding with R.
+Hi! I'm Andrea Gilardi and I am a tenure-track assistant professor (RTT) in Statistics (S.S.D. STAT-01/A) at the
+[Department of Economics, Management and Statistics](https://dems.unimib.it/en) of [University of Milano - Bicocca](https://en.unimib.it/). My main research interests focus on spatial and spatio-temporal models for events on linear networks. Love hiking and coding with R.
 
-<p></p>
+<p>
+
+</p>
 
 ### Selected Publications
 
-**Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2024) *Annals of Applied Statistics*. [[Link]](https://doi.org/10.1214/23-AOAS1800).
+**Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2024) *Annals of Applied Statistics*. [\[Link\]](https://doi.org/10.1214/23-AOAS1800).
 
 **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [\[Link\]](http://doi.org/10.1093/jrsssa/qnad057).
 
