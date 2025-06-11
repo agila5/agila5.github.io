@@ -16,6 +16,8 @@ format:
 
 ## Articles in refereed journals
 
+* Borgoni, R., **Gilardi, A.**, Michelangeli, A., Tkach, K. (2025). An Inverted-U, an Elephant or Neither? Exploring the Link Between Migrant Integration Policies and Pro-Immigrant Sentiment. *POPULATION SPACE & PLACE* (2025) [[Link]](https://doi.org/10.1002/psp.70053).
+* D’Angelo, N., Albano, A., **Gilardi, A.**, **Adelfio, G.**. Non-separable spatio-temporal Poisson point process models for fire occurrences. *Environ. Ecol. Stat.* (2025) [[Link]](https://doi.org/10.1007/s10651-025-00645-x). 
 * **Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2024) *Annals of Applied Statistics*, Volume 18, No. 1, 529-554. [[Link]](https://doi.org/10.1214/23-AOAS1800). 
 * **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, Volume 186, Issue 3, July 2023, Pages 313–334. [[Link]](https://doi.org/10.1093/jrsssa/qnad057). 
 * **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, Volume 185, Issue 3, July 2022, Pages 1150–1177. [[Link]](http://doi.org/10.1111/rssa.12823). 
