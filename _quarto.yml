@@ -25,4 +25,8 @@ website:
 
 format:
   html:
-    theme: [sandstone, _variables.scss]
+    respect-user-color-scheme: true
+    theme: 
+      light: [sandstone]
+      dark: [sandstone, dark-theme.scss]
+      
