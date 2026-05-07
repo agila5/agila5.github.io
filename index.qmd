@@ -4,9 +4,6 @@ image: avatar.jpg
 about:
   template: trestles
   links:
-    # - text: Bluesky
-      # icon: bluesky
-      # url: "https://twitter.com/a_gilardi5"
     - text: GitHub
       icon: github
       url: "https://github.com/agila5"
@@ -28,13 +25,11 @@ Hi! I'm Andrea Gilardi and I am a tenure-track assistant professor (RTT) in Stat
 
 ### Selected Publications
 
-**Gilardi, A.**, Borgoni, R., Mateu, J., A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. (2024) *Annals of Applied Statistics*. [\[Link\]](https://doi.org/10.1214/23-AOAS1800).
+**Gilardi, A.**, Borgoni, R., Mateu, J. (2024) A non-separable first-order spatio-temporal intensity for events on linear networks: an application to ambulance interventions. *Annals of Applied Statistics*. [\[Link\]](https://doi.org/10.1214/23-AOAS1800).
 
 **Gilardi, A.**, Borgoni, R., Presicce, L., Mateu, J. (2023) Measurement Error Models for Spatial Network Lattice Data: Analysis of car crashes in Leeds. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [\[Link\]](http://doi.org/10.1093/jrsssa/qnad057).
 
 **Gilardi, A.**, Mateu, J., Borgoni, R., Lovelace, R. (2022) Multivariate hierarchical analysis of car crashes data considering a spatial network lattice. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*. [\[Link\]](http://doi.org/10.1111/rssa.12823).
-
-Borgoni, R., **Gilardi, A.**, Zappa, D. (2020). Assessing the Risk of Car Crashes in Road Networks. *Social Indicators Research*. [\[Link\]](https://doi.org/10.1007/s11205-020-02295-x).
 
 ### R Packages
 
